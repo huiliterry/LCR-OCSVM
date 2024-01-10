@@ -3,7 +3,7 @@
 * Institute: CSISS GMU
 * Date: Jan. 2024
 * e-mail: hli47@gmu.edu
-* this program conducts satellite data process,  OCSVM classifier training, and classification
+* This program conducts satellite data process,  OCSVM classifier training, and classification
 */
 //import methods as first: compositeS2() and ResCosineCoefs()
 //collecting Sentinel-2 images, processing them as composite NDVI series, transforming them to cosine coefficient dataset
