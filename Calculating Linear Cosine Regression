@@ -1,6 +1,9 @@
 /*
-
-
+* Author: Hui Li
+* Institute: CSISS GMU
+* Date: Jan. 2024
+* e-mail: hli47@gmu.edu
+* This program conducts multi-order cosine regression calculation.
 */
 //method of multi-order cosine regression calculation and output coefficient datasets
 var ResCoesHarm = function(order,s2_no_cld_shdw){
