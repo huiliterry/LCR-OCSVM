@@ -6,7 +6,7 @@
 * This program conducts multi-order cosine regression calculation.
 */
 //method of multi-order cosine regression calculation and output coefficient datasets
-var ResCoesHarm = function(order,s2_no_cld_shdw){
+var ResCosineCoefs = function(order,s2_no_cld_shdw){
   //dependent variable.
   var dependent_NDVI = 'NDVI';  
   // the order of the model
